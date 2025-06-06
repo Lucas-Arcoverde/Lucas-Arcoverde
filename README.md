@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Lucas Arcoverde
 
-<!--
-**Lucas-Arcoverde/Lucas-Arcoverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Tenho 14 anos, sou brasileiro e apaixonado por tecnologia!
 
-Here are some ideas to get you started:
+🚀 Estou aprendendo e praticando:
+- 🐍 Python
+- 🌐 HTML e CSS
+- ✨ JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Gosto de explorar e criar projetos para aprender na prática.  
+🎯 Meu objetivo é me tornar um desenvolvedor cada vez melhor, um passo de cada vez!
+
+📫 Quer falar comigo?  
+Você pode me encontrar aqui no GitHub ou em breve em outras redes com projetos e ideias novas.
+
+---
+
+🛠️ *Em constante evolução...*  
+Obrigado por visitar meu perfil! 😊
