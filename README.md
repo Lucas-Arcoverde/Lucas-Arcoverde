@@ -1,19 +1,18 @@
-# 👋 Olá! Eu sou o Lucas Arcoverde
+# 👋 Hello! I'm Lucas Arcoverde
 
-🎓 Tenho 14 anos, sou brasileiro e apaixonado por tecnologia!
+🎓 I'm 14 years old, Brazilian, and passionate about technology!
 
-🚀 Estou aprendendo e praticando:
+🚀 I'm currently learning and practicing:
+
 - 🐍 Python
-- 🌐 HTML e CSS
+
+- 🌐 HTML and CSS
+
 - ✨ JavaScript
 
-📚 Gosto de explorar e criar projetos para aprender na prática.  
-🎯 Meu objetivo é me tornar um desenvolvedor cada vez melhor, um passo de cada vez!
+📚 I enjoy exploring and creating projects to learn through hands-on experience.🎯 My goal is to become a better developer, one step at a time!
 
-📫 Quer falar comigo?  
-Você pode me encontrar aqui no GitHub ou no instagram em @lucasarcove.
+📫 Want to get in touch? You can find me here on GitHub or on Instagram at @lucasarcove.
 
----
-
-🛠️ *Em constante evolução...*  
-Obrigado por visitar meu perfil! 😊
+🛠️ *Constantly evolving...*
+Thanks for visiting my profile! 😊
