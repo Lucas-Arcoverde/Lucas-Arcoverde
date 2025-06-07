@@ -11,7 +11,7 @@
 🎯 Meu objetivo é me tornar um desenvolvedor cada vez melhor, um passo de cada vez!
 
 📫 Quer falar comigo?  
-Você pode me encontrar aqui no GitHub ou em breve em outras redes com projetos e ideias novas.
+Você pode me encontrar aqui no GitHub ou no instagram em @lucasarcove.
 
 ---
 
